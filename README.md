@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -91,7 +90,7 @@
       </div>
       <div class="home__videos">
         <video
-          src="New folder (3)\images\pexels-olia-danilevich-5466768-1920x1080-25fps.mp4"
+          src="New folder (3)/images/pexels-olia-danilevich-5466768-1920x1080-25fps.mp4"
           class="video live"
           id="video1"
           autoplay
