@@ -20,12 +20,12 @@
     <header>
       <div id="menu-bar" class="fa-solid fa-bars"></div>
       <a href="https://www.google.com/maps/place/Kavya+Corporate/@21.2286407,72.8976496,15z/data=!4m6!3m5!1s0x3be04f6015cd43a9:0x8e4a3824004212dc!8m2!3d21.2286407!4d72.8976496!16s%2Fg%2F11gffhtnrn" class="header__logo">
-        <img src="C:\Users\PC1\Desktop\New folder (3)\images\logo.png" width="250" height="50" alt=""/>
+        <img src="New folder (3)\images\logo.png" width="250" height="50" alt=""/>
       </a>
       <nav class="navbar">
         <div class="navbar__links">
           <a href="#">Home</a>
-          <a href="C:\Users\PC1\Desktop\New folder (3)\About Us.html">About us</a>
+          <a href="New folder (3)\About Us.html">About us</a>
           <a href="https://documentcloud.wondershare.com/clientShare/review/bpcFVoayn8Msp0rtjRcN4WokAUXRE-2NX4QiyyHuH4ZA43ovnMdl2Qh6BInvqmV1CNclYhneKk8Q0UYuSMFQEg">Contact</a>
           <a href="https://documentcloud.wondershare.com/clientShare/review/bpcFVoayn8Msp0rtjRcN4bptw_kOGuIIXBcI0nJqNZsX4Ok14K89PRSwYLvsHu2A7_yXFN01NbTfwVNejfiwug">For More Information</a>
         </div>
@@ -91,35 +91,35 @@
       </div>
       <div class="home__videos">
         <video
-          src="C:\Users\PC1\Desktop\New folder (2)\images\pexels-olia-danilevich-5466768-1920x1080-25fps.mp4"
+          src="New folder (3)\images\pexels-olia-danilevich-5466768-1920x1080-25fps.mp4"
           class="video live"
           id="video1"
           autoplay
           muted
         ></video>
         <video
-          src="C:\Users\PC1\Desktop\New folder (2)\images\pexels-tima-miroshnichenko-6693625-3840x2160-25fps.mp4"
+          src="New folder (3)\images\pexels-tima-miroshnichenko-6693625-3840x2160-25fps.mp4"
           class="video"
           id="video2"
           autoplay
           muted
         ></video>
         <video
-          src="C:\Users\PC1\Desktop\New folder (2)\images\pexels-kampus-production-8348732-3840x2160-25fps.mp4"
+          src="New folder (3)\images\pexels-kampus-production-8348732-3840x2160-25fps.mp4"
           class="video"
           id="video3"
           autoplay
           muted
         ></video>
         <video
-          src="C:\Users\PC1\Desktop\New folder (2)\images\pexels-monstera-7429357-4096x2160-30fps.mp4"
+          src="New folder (3)\images\pexels-monstera-7429357-4096x2160-30fps.mp4"
           class="video"
           id="video4"
           autoplay
           muted
         ></video>
         <video
-          src="C:\Users\PC1\Desktop\New folder (2)\images\pexels-tima-miroshnichenko-7579657-4096x2160-25fps.mp4"
+          src="New folder (3)\images\pexels-tima-miroshnichenko-7579657-4096x2160-25fps.mp4"
           class="video"
           id="video5"
           autoplay
