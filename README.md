@@ -131,7 +131,7 @@
     <!-- End Home Section -->
 
     <!-- Js File Link -->
-    <script src="main.js"></script>
+    <script src="New folder (3)/main.js"></script>
   </body>
 </html>
 <!-- <svg
