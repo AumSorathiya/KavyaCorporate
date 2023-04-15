@@ -90,7 +90,7 @@
       </div>
       <div class="home__videos">
         <video
-          src="pexels-olia-danilevich-5466767-1920x1080-25fps.mp4"
+          src="repository-open-graph-template.png"
           class="video live"
           id="video1"
           autoplay
