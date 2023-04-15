@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Kavya Corporate</title>
     <!-- Css File Link -->
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="New folder (3)/style.css" />
     <!-- Font Awesome Link -->
     <link
       rel="stylesheet"
@@ -131,7 +131,7 @@
     <!-- End Home Section -->
 
     <!-- Js File Link -->
-    <script src="/main.js"></script>
+    <script src="main.js"></script>
   </body>
 </html>
 <!-- <svg
